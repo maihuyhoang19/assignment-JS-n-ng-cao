@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://blogquangchien.com/wp-content/uploads/2018/07/yezzy_700-768x512.jpg",
+      "title": "Giày Yezzy 700 V2 Static phản quang",
+      "content": "Về cơ bản, phần đế của giày Yeezy 700 V2 Static vẫn giữ nguyên dáng vóc phần đế của phiên bản Yeezy 700 V1, hoàn toàn không có sự khác biệt đáng kể nào. Vẫn là sử dụng công nghệ đệm Boost tiên tiến, đảm bảo  độ nảy cao, đàn hồi tốt, cân bằng lực tương tác ổn định, giúp người sử dụng đi nhẹ nhàng hơn, nhanh hơn"
+    },
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/564x/36/0d/c1/360dc143a4529ea0e174a7e6c2b9245c.jpg",
+      "title": "Giày Yezzy 700 V2 Static phản quang",
+      "content": "Về cơ bản, phần đế của giày Yeezy 700 V2 Static vẫn giữ nguyên dáng vóc phần đế của phiên bản Yeezy 700 V1, hoàn toàn không có sự khác biệt đáng kể nào. Vẫn là sử dụng công nghệ đệm Boost tiên tiến, đảm bảo  độ nảy cao, đàn hồi tốt, cân bằng lực tương tác ổn định, giúp người sử dụng đi nhẹ nhàng hơn, nhanh hơn"
+    },
+    {
+      "image": "https://blogquangchien.com/wp-content/uploads/2018/07/yezzy_700-768x512.jpg",
+      "title": "Tuyệt phẩm sneaker giày Adidas Yezzy 700",
+      "content": "",
+      "id": 3
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "fullname": "Nguyễn Quang Chiến",
+      "address": "Tiên Lục - Lạng Giang - Bắc Giang",
+      "phone": "0352860701",
+      "email": "quangchienxt2001@gmail.com",
+      "content": "Sản phẩm tốt! Sẽ ủng hộ cửa hàng nhiều!"
+    },
+    {
+      "fullname": "Trần Thu Trang",
+      "address": "Bắc Giang",
+      "phone": "0971884221",
+      "email": "trangttt@gmail.com",
+      "content": "Xin chào anh admin ",
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "content": "",
+      "id": 3
+    },
+    {
+      "full_name": "Nguyễn Quang Chiến",
+      "address": "Bắc Giang",
+      "phone": "0971884221",
+      "email": "quangchienxt2001@gmail.com",
+      "content": "d",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại SangSung"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại Xiaomi"
+    },
+    {
+      "id": 3,
+      "name": "Điện thoại Nokia"
+    },
+    {
+      "id": 4,
+      "name": "Điện thoại Huawei"
+    },
+    {
+      "id": 5,
+      "name": "Điện thoại OPPO"
+    },
+    {
+      "id": 6,
+      "name": "Điện thoại ViVo"
+    },
+    {
+      "id": 7,
+      "name": "Điện thoại HTC"
+    },
+    {
+      "id": 8,
+      "name": "Điện thoại Iphone"
+    },
+    {
+      "id": 9,
+      "name": "Điện thoại BlackBerry"
+    },
+    {
+      "name": "điện thoại nokia",
+      "id": 10
+    },
+    {
+      "name": "hoang",
+      "id": 11
+    },
+    {
+      "name": "Hoang",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Điện thoại iPhone 12 mini 128GB",
+      "price": "22990000",
+      "status": "0",
+      "old_price": "23500000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228741/iphone-12-mini-128gb-193320-023358-400x400.png",
+      "detail": "Mỗi thế hệ iPhone mới đều tương ứng với dòng CPU mới hơn nhằm mang lại hiệu năng mạnh mẽ nhất. Có lẽ đó, mà iPhone 12 mini có nguồn sức mạnh đến từ A14 Bionic với quy trình sản xuất 5 nm.Apple khẳng định A14 nhanh hơn 50% so với bất kỳ CPU smartphone nào khác trên thị trường, đồng thời còn đi kèm với một GPU hiệu năng cao giúp cải thiện khả năng chơi game của thiết bị.Xem thêm: Tìm hiểu chip xử lý Apple A14 Bionic. Hiệu năng mạnh đến mức nào?Đi kèm với cấu hình cao là hệ điều hành iOS 14 tối ưu hơn cũng như đã được nâng cấp thêm nhiều tính năng mới.",
+      "cate_id": "8"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại Samsung Galaxy S20",
+      "price": "21040000",
+      "status": "1",
+      "old_price": "22100000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/217935/samsung-galaxy-s20-400x460-hong-400x460.png",
+      "detail": "Chiếc điện thoại Samsung Galaxy S20 được trang bị một màn hình kích thước 6.2 inch độ phân giải 2K sử dụng tấm nền Dynamic AMOLED 2X mới nhất từ nhà sản xuất Samsung.Màn hình này cho khả năng tái tạo màu sắc đầy đủ và chính xác, đem đến cho bạn những trải nghiệm hình ảnh sống động, chân thực đồng thời giảm lượng ánh sáng xanh bảo vệ sức khỏe người dùng.So với thế hệ trước thì viền màn hình lần này đã được làm mỏng hơn đáng kể, gần như biến mất ở các cạnh trái phải và cạnh trên. Thiết kế siêu tràn viền Infinity O với một điểm khoét nhỏ cho camera trước cho bạn trải nghiệm màn hình giải trí kích thước lớn với độ phân giải cao. Loa thoại của máy cũng được Samsung đặt trong một rãnh rất nhỏ ở cạnh trên, khiến cạnh này càng mỏng và ít chi tiết hơn.Cảm giác cầm nắm trên Samsung Galaxy S20 khá tốt, chắc chắn và đầm tay, viền màn hình của máy được Samsung bo cong ít hơn thế hệ Galaxy S10 trước đây, cho cảm giác vuốt khá mềm mại và dễ chịu.",
+      "cate_id": "1"
+    },
+    {
+      "name": "Điện thoại Xiaomi Redmi 9C (2GB/32GB)",
+      "old_price": "3200000",
+      "price": "2900000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/223814/xiaomi-redmi-9c-231020-041019-400x460.png",
+      "cate_id": "2",
+      "status": "1",
+      "detail": "Xiaomi Redmi 9C sở hữu trong mình thiết kế bo tròn mềm mại ở các cạnh mang lại cảm giác thoải mái khi cầm nắm, các nhà sản xuất hoàn thiện rất tỉ mỉ từ đó mang lại sự sang trọng và tinh tế cho sản phẩm.Đặc điểm nổi bật của Xiaomi Redmi 9C (2GB/32GB).Bộ sản phẩm chuẩn: Hộp, Sạc, Sách hướng dẫn, Cáp, Cây lấy sim.Tiếp nối thành công từ Xiaomi Redmi 9 thì tháng 7 này nhà Xiaomi sẽ tung ra sản phẩm mới có tên là Xiaomi Redmi 9C, được trang bị viên pin cực lớn và có sự thay đổi về camera lẫn cấu hình. Đây chắc hẳn là sự lựa chọn hàng đầu đối với những khách hàng hướng tới một thiết bị tầm trung đầy đủ tính năng với giá cực mềm.Màn hình giọt nước mang tính thời thượng.Xiaomi Redmi 9C sở hữu trong mình thiết kế bo tròn mềm mại ở các cạnh mang lại cảm giác thoải mái khi cầm nắm, các nhà sản xuất hoàn thiện rất tỉ mỉ từ đó mang lại sự sang trọng và tinh tế cho sản phẩm.Smartphone này được thiết kế màn hình giọt nước, tràn viền màn hình mỏng lên đến 6.53 inch. Bên cạnh đó, Xiaomi Redmi 9C còn trang bị màn hình IPS LCD với độ phân giải HD+ mang lại cho người dùng hình ảnh sắc nét và chân thật nhất.Camera trước 5 MP cho người dùng lưu lại những khoảnh khắc đáng nhớ cùng người thân hoặc bạn bè.",
+      "id": 3
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Nguyễn Quang Tuyên",
+      "address": "Tiên Lục - Lạng Giang - Bắc Giang"
+    }
+  ],
+  "bills": [
+    {
+      "id": 1,
+      "prd_id": 1,
+      "customer_id": 1
+    }
+  ]
+}

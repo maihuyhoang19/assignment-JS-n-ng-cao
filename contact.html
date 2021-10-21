@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Liên hệ</title>
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/postItem.css">
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="js/bootstrap.js"></script>
+</head>
+<body>
+
+<!--	Header	-->
+<div id="header">
+	<div class="container">
+    	<div class="row">
+        	<div id="logo" class="col-lg-3 col-md-3 col-sm-12">
+            	<h1><a href="#"><img class="img-fluid" src=""></a></h1>
+            </div>
+            <div id="search" class="col-lg-6 col-md-6 col-sm-12">
+                <form class="form-inline">
+                    <input class="form-control mt-3" type="search" placeholder="Tìm kiếm" aria-label="Search">
+                    <button class="btn btn-danger mt-3" type="submit">Tìm kiếm</button>
+                </form>
+            </div>
+            <div id="cart" class="col-lg-3 col-md-3 col-sm-12">
+            	<a class="mt-4 mr-2" href="#">giỏ hàng</a><span class="mt-3">8</span>
+            </div>
+        </div>
+    </div>
+    <!-- Toggler/collapsibe Button -->
+    <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#menu">
+    	<span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+<!--	End Header	-->
+
+<!--	Body	-->
+<div id="body">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-lg-12 col-md-12 col-sm-12">
+            	<nav>
+                	<div id="menu" class="collapse navbar-collapse">
+                        <ul>
+                            <li class="menu-item"><a href="index.html">Trang chủ</a></li>
+                            <li class="menu-item"><a href="products.html">Sản phẩm</a></li>
+                            <li class="menu-item"><a href="posts.html">Tin tức</a></li>
+                            <li class="menu-item"><a href="contact.html">Liên hệ</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="row">
+
+            <div id="main" class="col-lg-12 col-md-12 col-sm-12">
+                <div class="row">
+                    <div class="breadcrumbs col-lg-12 col-md-12 col-sm-12">
+                        Trang chủ » <span class="breadcrumbs__active">Liên hệ</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 col-sm-12 col-md-12">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <h5 class="mb-3">Cửa hàng Giày Sneaker – QcStore</h5>
+                                <p>QcStore là cửa hàng buôn bán và phân phối điện thoại thông minh của một số những nhãn hiệu nổi tiếng trên thế giới.Chúng tôi sẽ liên tục cập nhật những sản phẩm mới nhất, chất lượng nhất, hợp thời nhất giúp các bạn có những trải nghiệm tuyệt vời!</p>
+                                <p>Địa chỉ: Ký túc xá Mỹ Đình 2, Nam Từ Liêm, Hà Nội</p>
+                                <p>Điện thoại: 0352.860.701</p>
+                                <p>Email:qcstore.vn@gmail.com</p>
+                                <hr>
+                                <h5 class="mb-3 mt-4">Bản đồ đến cửa hàng</h5>
+                                <p>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2633.2726235383593!2d105.76526454353443!3d21.032291570343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313455986c2f2263%3A0x600178f26a953e20!2sKtx!5e0!3m2!1svi!2s!4v1599876934315!5m2!1svi!2s" 
+                                width="100%" height="230px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                </p>
+                            </div>
+
+                            <div class="col-md-6">
+                                <h5 class="mt-2 mb-2">Ý kiến góp ý của quý vị</h5>
+                                <p>Mọi ý kiến đóng góp, liên hệ, khiếu nại khác vui lòng điền đầy đủ thông tin và gửi đến chúng tôi. Bộ phận hỗ trợ khách hàng sẽ phản hồi sớm nhất khi nhận được thông tin.</p>
+                                <form id="contact" method="post" action="gui-gop-y.php" style="border: 1px solid #ccc; border-radius: 4px; padding: 14px 30px;">
+                                    <div class="form-group">
+                                        <label for="my-input">Họ và tên: </label>
+                                        <input id="full_name" class="form-control" type="text" name="full_name">
+                                        <span class="form-message"></span>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="my-input">Địa chỉ: </label>
+                                        <input id="address" class="form-control" type="text" name="address">
+                                        <span class="form-message"></span>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="my-input">Số điện thoại: </label>
+                                        <input id="phone" class="form-control" type="text" name="phone">
+                                        <span class="form-message"></span>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="my-input">Email: </label>
+                                        <input id="email" class="form-control" type="text" name="email">
+                                        <span class="form-message"></span>
+                                    </div> 
+
+                                    <div class="form-group">
+                                        <label for="my-textarea">Nội dung: </label>
+                                        <textarea id="content" class="form-control" name="content" rows="8"></textarea>
+                                        <span class="form-message"></span>
+                                    </div>
+
+                                    <button id="btn" class="btn btn-primary">Gửi liên hệ</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--	End Body	-->
+
+<div id="footer-top">
+    <div class="container">
+        <div class="row">
+            <div id="logo-2" class="col-lg-3 col-md-6 col-sm-12">
+                <h2>
+                    <a href="#">
+                        <img src="">
+                    </a>
+                </h2>
+                <p>
+                    Là cửa hàng buôn bán và phân phối điện thoại thông minh của một số những nhãn hiệu nổi tiếng trên thế giới.Chúng tôi sẽ liên tục cập nhật những sản phẩm mới nhất, chất lượng nhất, hợp thời nhất giúp các bạn có những trải nghiệm tuyệt vời!
+                </p>
+            </div>
+            <div id="service" class="col-lg-3 col-md-6 col-sm-12">
+                <h3>Chính sách cửa hàng</h3>
+                <p><a href="#">Hướng dẫn đặt hàng</a> </p>
+                <p><a href="#">Hình thức thanh toán</a></p>
+                <p><a href="#">Phương thức vận chuyển</a></p>
+                <p><a href="#">Chính sách đổi trả hàng</a></p>
+                <p><a href="#">Hướng dẫn sử dụng</a></p>
+            </div>
+            <div id="hotline" class="col-lg-3 col-md-6 col-sm-12">
+                <h3>Hotline liên hệ</h3>
+                <div class="d-flex justify-content-between mb-4">
+                    <img class="mr-4" width="60" src="images/call.png" alt="">
+                    <div>
+                        <p style="color: #ff3333; font-size: 16px; font-weight: bold">0352.860.701</p>
+                        <span style="font-size: 13px">(Tất cả các ngày trong tuần)</span>
+                    </div>
+                </div>
+
+                <div class="pt-2">
+                    <h4 stlye="font-size: 18px;">Kết nối với chúng tôi</h4>
+                    <div>
+                        <a href=""><img src="images/icon_fb.png"></a>
+                        <a href=""><img src="images/icon_mail.png"></a>
+                        <a href=""><img src="images/icon_call.png"></a>
+                        <a href=""><img src="images/icon_yt.png"></a>
+                    </div>
+
+                </div>
+            </div>
+            <div id="fanpage" class="col-lg-3 col-md-6 col-sm-12 mt-4">
+                <h3>Fanpage Facebook</h3>
+                <p>
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Favcsneaker&tabs=timeline&width=250&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="400" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="js/validate.js"></script>
+<script>
+Validator({
+    form: '#contact',
+    formGroupSelector: '.form-group',
+    errorSelector: '.form-message',
+    rules: [
+        Validator.isRequired('#full_name', 'Vui lòng nhập họ và tên'),
+        Validator.minLength('#full_name', 5, 'Vui lòng nhập tối thiểu 5 ký tự'),
+        Validator.maxLength('#full_name', 50, 'Họ và tên chỉ được tối đá 50 ký tự'),
+        Validator.fullName('#full_name', 'Họ và tên không đúng định dạng!'),
+
+        Validator.isRequired('#address', 'Vui lòng nhập địa chỉ'),
+        Validator.isPhone('#phone'),
+        Validator.isRequired('#phone', 'Vui lòng nhập số điện thoại'),
+        
+        Validator.isRequired('#email', 'Email không được để trống'),
+        Validator.isEmail('#email', 'Không đúng định dạng email'),
+
+        Validator.isRequired('#content', 'Nội dung không được để trống'),
+
+    ],
+
+    onSubmit: function(data){
+        // console.log(data);
+        let url = 'http://localhost:3000/contacts';
+
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data),
+        })
+        .then((response) => response.json())
+        .then((data) => {
+            alert("Gửi liên hệ thành công!")
+            window.location="/";
+        })
+        .catch((error) => {
+
+            console.error('Error:', error);
+        });
+    }
+  });
+</script>
+<!-- <script>
+    const node = document.querySelector.bind(document);
+
+
+    node("#btn").onclick = (event) =>{
+        event.preventDefault();
+        const fullname = node("input[name=full_name]").value;
+        const address = node("input[name=address]").value;
+        const phone = node("input[name=phone]").value;
+        const email = node("input[name=email]").value;
+        const content = node("textarea[name=content]").value;
+
+        let dataContact = {
+            fullname,
+            address,
+            phone,
+            email,
+            content
+        }
+        let url = 'http://localhost:3000/contacts';
+
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data),
+        })
+        .then((response) => response.json())
+        .then((data) => {
+            alert("Gửi liên hệ thành công!")
+            window.location="/";
+        })
+        .catch((error) => {
+
+            console.error('Error:', error);
+        });
+
+    }
+</script> -->
+</body>
+</html>
